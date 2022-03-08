@@ -20,7 +20,7 @@
   <a href = "mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Phantom-XXMMX/Phantom-XXMMX/blob/output/github-contribution-grid-snake.svg)
+  ![Pacman](https://user-images.githubusercontent.com/101155683/157163152-d1068f55-c288-4e38-9f38-4ee6e1dd7019.gif)
 
 </div>
 
